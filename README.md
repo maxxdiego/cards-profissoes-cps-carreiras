@@ -1,5 +1,7 @@
 # CPSC Cards Profissões
 
+🌐 Acesso: [https://cpsc-cards-profissoes.vercel.app](https://cpsc-cards-profissoes.vercel.app)
+
 Aplicação web para gerenciamento e visualização de cards de profissões, desenvolvida com React, Next.js e TypeScript.
 
 ## 🛠️ Tecnologias
